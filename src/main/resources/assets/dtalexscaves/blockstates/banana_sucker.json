@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "dtalexsmobs:block/banana_sucker" },
+        "facing=west": { "model": "dtalexsmobs:block/banana_sucker", "y": 90 },
+        "facing=north": { "model": "dtalexsmobs:block/banana_sucker", "y": 180 },
+        "facing=east": { "model": "dtalexsmobs:block/banana_sucker", "y": 270 }
+    }
+}

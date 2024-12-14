@@ -1,0 +1,14 @@
+[
+  {
+    "select": { "tag": "#minecraft:is_jungle" },
+    "apply": {
+      "species" : {
+        "method" : "splice_before",
+        "random" : {
+          "dtalexsmobs:banana" : 1,
+          "..." : 48
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "type": "palm",
+  "family": "dtalexsmobs:banana",
+  "tapering": 0.8,
+  "signal_energy": 5.0,
+  "growth_rate": 0.6,
+  "leaves_properties": "dtalexsmobs:banana",
+  "generate_seed": true,
+  "generate_sapling": true,
+  "environment_factors" : {
+    "cold": 0.75,
+    "dry": 0.75,
+    "hot": 1.1
+  },
+  "seasonal_fruiting_offset": null,
+  "inherit_fruiting_offset_to_fruits": true,
+  "perfect_biomes": { "tags": [ "#is_jungle", "#is_overworld" ] },
+  "sapling_shape": "dtalexsmobs:banana_sapling",
+  "fruits": [
+    "dtalexsmobs:banana"
+  ],
+  "features": [
+    {
+      "name": "dtalexsmobs:banana_fruit",
+      "properties": {
+        "fruit": "dtalexsmobs:banana",
+        "fruiting_radius": 4
+      }
+    },
+    {
+      "name": "dtalexsmobs:plant_suckers",
+      "properties": {
+        "sucker_block": "dtalexsmobs:banana_sucker"
+      }
+    }
+  ],
+  "lang_overrides": {
+    "seed": "Banana Sucker"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "dtalexsmobs:block/saplings/banana" },
+      { "model": "dtalexsmobs:block/saplings/banana", "y": 90 },
+      { "model": "dtalexsmobs:block/saplings/banana", "y": 180 },
+      { "model": "dtalexsmobs:block/saplings/banana", "y": 270 }
+    ]
+  }
+}
