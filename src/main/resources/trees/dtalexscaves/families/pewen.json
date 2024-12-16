@@ -1,0 +1,16 @@
+{
+  "type": "palm",
+  "common_leaves": "dtalexscaves:pewen",
+  "common_species": "dtalexscaves:pewen",
+  "primitive_log": "alexscaves:pewen_log",
+  "primitive_stripped_log": "alexscaves:stripped_pewen_log",
+  "max_branch_radius": 8,
+  "primary_thickness": 3,
+  "secondary_thickness": 4,
+  "texture_overrides": {
+    "branch": "alexscaves:block/pewen/pewen_log",
+    "branch_top": "alexscaves:block/pewen/pewen_log_top",
+    "stripped_branch": "alexscaves:block/pewen/stripped_pewen_log",
+    "stripped_branch_top": "alexscaves:block/pewen/stripped_pewen_log_top"
+  }
+}

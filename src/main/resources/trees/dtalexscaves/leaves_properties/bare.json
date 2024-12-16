@@ -1,0 +1,7 @@
+{
+  "generate_block": false,
+  "cell_kit": "bare",
+  "texture_overrides": {
+    "leaves": "dynamictrees:block/air"
+  }
+}

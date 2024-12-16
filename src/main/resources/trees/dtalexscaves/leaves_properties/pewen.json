@@ -1,0 +1,14 @@
+{
+  "type": "dynamictrees:palm",
+  "primitive_leaves": "alexscaves:pewen_branch",
+  "cell_kit": "dynamictrees:palm",
+  "frond_model_loader": "dynamictrees:medium_palm_fronds",
+  "texture_overrides": {
+    "frond": "dtalexscaves:block/pewen_frond",
+    "core_bottom": "dtalexscaves:block/pewen_base",
+    "leaves": "alexscaves:/block/pewen/pewen_pines_4"
+  },
+  "model_overrides": {
+    "core_bottom": "dtalexscaves:block/smartmodel/pewen_core_bottom"
+  }
+}

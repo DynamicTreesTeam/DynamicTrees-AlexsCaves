@@ -29,8 +29,6 @@ public class DynamicTreesAlexsCaves {
         modEventBus.addListener(this::gatherData);
 
         RegistryHandler.setup(MOD_ID);
-
-        DTAlexsCavesRegistries.BLOCKS.register(modEventBus);
     }
 
     private void clientSetup(final FMLClientSetupEvent event) {

@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "alexscaves:block/thornwood/thornwood_log",
+    "rings": "alexscaves:block/thornwood/thornwood_log_top"
+  }
+}

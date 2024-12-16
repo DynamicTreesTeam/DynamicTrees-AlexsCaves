@@ -1,0 +1,6 @@
+{
+  "loader": "dynamictrees:medium_palm_fronds",
+  "textures": {
+    "frond": "dtalexscaves:block/pewen_frond"
+  }
+}

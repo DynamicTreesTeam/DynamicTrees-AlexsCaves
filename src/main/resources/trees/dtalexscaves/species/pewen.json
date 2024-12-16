@@ -1,0 +1,15 @@
+{
+  "type": "palm",
+  "family": "dtalexscaves:pewen",
+  "tapering": 0.3,
+  "signal_energy": 24.0,
+  "growth_rate": 0.6,
+  "leaves_properties": "dtalexscaves:pewen",
+  "environment_factors": {
+    "#forge:is_dry": 0.6
+  },
+  "perfect_biomes": {"name": "alexcaves:primordial_caves"},
+  "sapling_shape": "dtalexscaves:pewen_sapling",
+  "features": [
+  ]
+}

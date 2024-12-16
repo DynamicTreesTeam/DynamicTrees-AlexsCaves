@@ -1,0 +1,6 @@
+{
+  "parent": "dtalexscaves:block/smartmodel/pewen_core_bottom",
+  "textures": {
+    "core_bottom": "dtalexscaves:block/pewen_base"
+  }
+}

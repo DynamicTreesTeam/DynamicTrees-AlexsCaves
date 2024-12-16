@@ -1,0 +1,44 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "dtalexscaves:block/palm_leaves/pewen_frond"
+      },
+      "when": {
+        "distance": "1|2"
+      }
+    },
+    {
+      "apply": {
+        "model": "dtalexscaves:block/palm_leaves/pewen_core_top"
+      },
+      "when": {
+        "distance": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "dtalexscaves:block/palm_leaves/pewen_core_bottom"
+      },
+      "when": {
+        "distance": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "alexscaves:block/pewen_branch"
+      },
+      "when": {
+        "OR": [
+          {
+            "direction": "0",
+            "distance": "1|2"
+          },
+          {
+            "distance": "5|6|7"
+          }
+        ]
+      }
+    }
+  ]
+}

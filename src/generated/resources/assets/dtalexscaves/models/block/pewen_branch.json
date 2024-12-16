@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "alexscaves:block/pewen/pewen_log",
+    "rings": "alexscaves:block/pewen/pewen_log_top"
+  }
+}

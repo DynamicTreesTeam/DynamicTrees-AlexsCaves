@@ -1,0 +1,12 @@
+// 1.20.1	2024-12-16T16:10:29.6606066	Loot Tables
+a151974f70b6e531433ba93e3fdc3f7d4c31cec6 data/dtalexscaves/loot_tables/blocks/ancient_leaves.json
+ccc59788a20fc1af3a20e609b4d6f29793934a20 data/dtalexscaves/loot_tables/blocks/pewen_leaves.json
+396aa551b39eeb7e0b0abd740863fd0f24f22869 data/dtalexscaves/loot_tables/trees/branches/pewen.json
+57f285d1087662416516d4213ec9748a78674984 data/dtalexscaves/loot_tables/trees/branches/stripped_pewen.json
+ecc2e46b65d8fd2864ea7783824bd941203a60c6 data/dtalexscaves/loot_tables/trees/branches/stripped_thornwood.json
+5b04f8e92a470255da20c4baf92b78dc85e63aaa data/dtalexscaves/loot_tables/trees/branches/thornwood.json
+4b4377edb09d8106fc5b2feb2b3376db6f0bd7cb data/dtalexscaves/loot_tables/trees/leaves/ancient.json
+4ee4cb6f1958e0f86273688e074243204ae79965 data/dtalexscaves/loot_tables/trees/leaves/pewen.json
+437be14099fce81e6cd437b4c510952e06535557 data/dtalexscaves/loot_tables/trees/voluntary/ancient.json
+e07c81ab1bcc06aea8f29f2615193d9f8751665d data/dtalexscaves/loot_tables/trees/voluntary/pewen.json
+b893ab6e2e7f5b8b760bc390b9c3c3aff2904c88 data/dtalexscaves/loot_tables/trees/voluntary/thornwood.json

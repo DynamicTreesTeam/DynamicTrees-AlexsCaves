@@ -1,0 +1,14 @@
+{
+  "common_leaves": "dtalexscaves:thornwood",
+  "common_species": "dtalexscaves:thornwood",
+  "primitive_log": "alexscaves:thornwood_log",
+  "primitive_stripped_log": "alexscaves:stripped_thornwood_log",
+  "max_branch_radius": 8,
+  "texture_overrides": {
+    "branch": "alexscaves:block/thornwood/thornwood_log",
+    "branch_top": "alexscaves:block/thornwood/thornwood_log_top",
+    "stripped_branch": "alexscaves:block/thornwood/stripped_thornwood_log",
+    "stripped_branch_top": "alexscaves:block/thornwood/stripped_thornwood_log_top"
+  },
+  "stick": "alexscaves:thornwood_branch"
+}
